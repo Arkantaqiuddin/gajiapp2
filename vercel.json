@@ -32,5 +32,6 @@
         "DB_PORT": "3307",
         "DB_DATABASE": "bps3322monikadb_swamoxygen",
         "DB_USERNAME": "bps3322monikadb_swamoxygen"
+        "DATABASE_URL": "mysql://bps3322monikadb_swamoxygen:fa84ed230c5c390f10149375dc9c98ab4eb04a6b@djujs.h.filess.io:3307/bps3322monikadb_swamoxygen"
     }
 }
